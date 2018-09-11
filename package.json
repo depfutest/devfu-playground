@@ -1,0 +1,10 @@
+{
+  "name": "devfu-playground",
+  "version": "1.0.0",
+  "description": "devfu-playground",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "semver": "^5.5.1"
+  }
+}
