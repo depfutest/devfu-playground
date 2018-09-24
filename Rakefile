@@ -1,4 +1,4 @@
-desc "Fake Test Task"
+desc "The Test Task"
 task :test do
   puts "Testing..."
 end
