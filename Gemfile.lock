@@ -9,7 +9,7 @@ PLATFORMS
 
 DEPENDENCIES
   minitest
-  rake (= 12.3.1)
+  rake (~> 12.3)
 
 BUNDLED WITH
    1.17.1
