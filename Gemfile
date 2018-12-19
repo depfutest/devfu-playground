@@ -3,5 +3,5 @@
 
 source 'https://rubygems.org'
 
-gem 'rake', '12.3.1'
+gem 'rake', '~> 12.3'
 gem 'minitest'
